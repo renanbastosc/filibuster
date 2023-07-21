@@ -1,7 +1,6 @@
 click>=7.1.2
-# Flask==1.0.0
 Flask==2.0.3
 requests
 sphinx==5.0.2
 sphinx-rtd-theme
-myst-parser
+myst-parser==1.0.0
